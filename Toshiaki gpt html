@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>私の最初のページ</title>
+  </head>
+  <body>
+    <h1>ようこそ！</h1>
+    <p>これは私の最初のウェブページです。</p>
+    
+    <h2>お気に入りのリンク</h2>
+    <ul>
+      <li><a href="https://example.com">Example</a></li>
+      <li><a href="https://example2.com">Example 2</a></li>
+    </ul>
+    
+    <h2>画像を表示</h2>
+    <img src="image.jpg" alt="サンプル画像">
+  </body>
+</html>
